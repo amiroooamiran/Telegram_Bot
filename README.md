@@ -15,4 +15,6 @@ pip install pyTelegramBotAPI
 ### Step Three ( Git Clone Project )
 
 go in the directory and cloning this Project with this : <br />
+````
 git clone https://github.com/amirhosseiamiran2004/Telegram_Bot.git
+````
